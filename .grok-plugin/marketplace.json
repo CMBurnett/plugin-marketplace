@@ -415,7 +415,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/CMBurnett/the-design-agent-plugin.git",
-        "sha": "638b81ef08826368591807f2698e302d6b516caa"
+        "sha": "172bf7af81aacee139068744b86ddf272112c7ed"
       },
       "homepage": "https://www.thedesignagent.ai",
       "keywords": ["thedesignagent", "the design agent", "tda design review", "thedesignagent ux review", "thedesignagent visual review", "thedesignagent brief"],

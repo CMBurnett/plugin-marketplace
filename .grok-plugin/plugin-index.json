@@ -1162,8 +1162,8 @@
       }
     },
     "thedesignagent": {
-      "sha": "638b81ef08826368591807f2698e302d6b516caa",
-      "version": "0.6.3",
+      "sha": "172bf7af81aacee139068744b86ddf272112c7ed",
+      "version": "0.6.4",
       "components": {
         "hooks": [
           {
